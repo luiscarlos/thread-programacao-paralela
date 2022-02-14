@@ -49,5 +49,7 @@ public class AulaThread {
 		System.out.println("Chegou ao FIM do codigo de thread");
 		JOptionPane.showMessageDialog(null, "Sistema continua executando para o usuário");
 	}
+	
+	
 
 }
